@@ -60,7 +60,7 @@ I ❤️ DATA and Pokémon.
         <img src="https://cdn-images.dzcdn.net/images/cover/c3bd92e88e7cbf443e5ee99f365ba042/500x500-000000-80-0-0.jpg" width="250" alt="Album cover 2" />
       </td>
       <td align="center">
-        <img src="https://cdn.discordapp.com/attachments/769687291773190164/1415195776820314164/Miranda_PFP.jpg?ex=68c25346&is=68c101c6&hm=964bb2a55dd6cbea5a30bfc3e8f4708ec2ef31141c64bd8e18140e41ae7db0b3&" width="250" alt="Miranda PFP" />
+        <img src="[https://cdn.discordapp.com/attachments/769687291773190164/1415195776820314164/Miranda_PFP.jpg?ex=68c25346&is=68c101c6&hm=964bb2a55dd6cbea5a30bfc3e8f4708ec2ef31141c64bd8e18140e41ae7db0b3&](https://drive.google.com/file/d/1mWQms5kzQaR8mi3chykDdRd2hicdOJvl/view?usp=sharing)" width="250" alt="Miranda PFP" />
     </tr>
   </table>
 </div>
