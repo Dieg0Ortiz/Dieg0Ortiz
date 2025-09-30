@@ -1,20 +1,20 @@
-# Howdy!! 👋 Soy Diego Ortiz
+# Howdy!! 👋 I'm Diego Ortiz.
 
-## INGENIERO EN SOFTWARE EN PROCESO; Y ASPIRANTE A UX/UI DESIGNER.
+## SOFTWARE ENGINEER IN TRAINING; AND ASPIRING UX/UI DESIGNER.
 
-🌱 Estoy en constante aprendizaje centrado en el desarrollo Front-End y aprendiendo UX/UI Design.
+🌱 I am constantly learning, focusing on front-end development and UX/UI design.
 
-📫 **Puedes contactarme por:**
+📫 **You can contact me at:**
 - Email: dieernesto@gmail.com
 - Discord: peso_pluma__.
 
-🗣️ Hablante nativo de Español, and intermediate English speaker B1+.
+🗣️ Native Spanish speaker and intermediate English speaker B2.
 
-Apasionado a la música de todos los estilos, e intento de videojugador.
+Passionate about all styles of music and aspiring video gamer.
 
 I ❤️ DATA and Pokémon.
 
-## 📊 GitHub Stats
+## 📊 GitHub 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dieg0Ortiz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
