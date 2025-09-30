@@ -60,7 +60,7 @@ I ❤️ DATA and Pokémon.
         <img src="https://cdn-images.dzcdn.net/images/cover/c3bd92e88e7cbf443e5ee99f365ba042/500x500-000000-80-0-0.jpg" width="250" alt="Album cover 2" />
       </td>
       <td align="center">
-        <img src="file:///Users/syku/Library/Mobile%20Documents/com~apple~CloudDocs/Miranda%20PFP.jpg" width="250" alt="Miranda PFP" />
+        <img src="https://i.pinimg.com/736x/e2/18/a4/e218a4b1fa40a7d861c2212d99a95cb0.jpg" width="250" alt="Miranda PFP" />
     </tr>
   </table>
 </div>
