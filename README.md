@@ -12,7 +12,7 @@
 
 Passionate about all styles of music and aspiring video gamer.
 
-I ❤️ DATA and Pokémon.
+I ❤️ DATA 
 
 ## 📊 GitHub 
 
